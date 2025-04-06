@@ -1,0 +1,14 @@
+C:\Users\Kordy\source\repos\console-login-dongusu\console-login-dongusu\bin\Debug\net8.0\console-login-dongusu.exe
+C:\Users\Kordy\source\repos\console-login-dongusu\console-login-dongusu\bin\Debug\net8.0\console-login-dongusu.deps.json
+C:\Users\Kordy\source\repos\console-login-dongusu\console-login-dongusu\bin\Debug\net8.0\console-login-dongusu.runtimeconfig.json
+C:\Users\Kordy\source\repos\console-login-dongusu\console-login-dongusu\bin\Debug\net8.0\console-login-dongusu.dll
+C:\Users\Kordy\source\repos\console-login-dongusu\console-login-dongusu\bin\Debug\net8.0\console-login-dongusu.pdb
+C:\Users\Kordy\source\repos\console-login-dongusu\console-login-dongusu\obj\Debug\net8.0\console-login-dongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kordy\source\repos\console-login-dongusu\console-login-dongusu\obj\Debug\net8.0\console-login-dongusu.AssemblyInfoInputs.cache
+C:\Users\Kordy\source\repos\console-login-dongusu\console-login-dongusu\obj\Debug\net8.0\console-login-dongusu.AssemblyInfo.cs
+C:\Users\Kordy\source\repos\console-login-dongusu\console-login-dongusu\obj\Debug\net8.0\console-login-dongusu.csproj.CoreCompileInputs.cache
+C:\Users\Kordy\source\repos\console-login-dongusu\console-login-dongusu\obj\Debug\net8.0\console-login-dongusu.dll
+C:\Users\Kordy\source\repos\console-login-dongusu\console-login-dongusu\obj\Debug\net8.0\refint\console-login-dongusu.dll
+C:\Users\Kordy\source\repos\console-login-dongusu\console-login-dongusu\obj\Debug\net8.0\console-login-dongusu.pdb
+C:\Users\Kordy\source\repos\console-login-dongusu\console-login-dongusu\obj\Debug\net8.0\console-login-dongusu.genruntimeconfig.cache
+C:\Users\Kordy\source\repos\console-login-dongusu\console-login-dongusu\obj\Debug\net8.0\ref\console-login-dongusu.dll
